@@ -1,2 +1,5 @@
 # Git_Corse
-non
+For Elzero Web School Git Course
+
+
+## Project Notes
